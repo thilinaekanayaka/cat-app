@@ -1,0 +1,17 @@
+{
+  "name": "cat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Thilina Ekanayaka",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/blend": "^2.0.1",
+    "got": "^11.8.2",
+    "minimist": "^1.2.5",
+    "request": "^2.88.2"
+  }
+}
